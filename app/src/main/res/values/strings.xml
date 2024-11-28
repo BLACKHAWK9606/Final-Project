@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NASA Image Viewer</string>
+    <string name="fetch_error">Failed to fetch image. Please check your network connection.</string>
+    <string name="parse_error">Error parsing the API response.</string>
+    <string name="no_image_to_save">No image to save. Please fetch an image first.</string>
+    <string name="image_saved">Image saved successfully!</string>
+    <string name="api_result_format">Title: %1$s\nURL: %2$s\nHD URL: %3$s</string>
+    <string name="pick_date">Pick a Date</string>
+    <string name="save_image">Save Image</string>
+    <string name="view_saved_images">View Saved Images</string>
+    <string name="no_saved_images">No saved images yet!</string>
+    <string name="nasa_api_key">IyLfLzD0GcdKXe57LgGLzNFklE3dxThjXLr3uamO</string>
+    <string name="saved_images_title">Saved Images</string>
+</resources>
